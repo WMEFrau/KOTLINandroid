@@ -2,10 +2,13 @@
     <string name="app_name">RestauranteKT</string>
     <string name="CazuelaTitle">Cazuela</string>
     <string name="PastelTitle">Pastel de choclo</string>
-    <string name="PastePrice">$36.000</string>
-    <string name="CazuelaPrice">$10.000</string>
+    <string name="PastePrice">$0</string>
+    <string name="CazuelaPrice">$0</string>
     <string name="lblCantidad">Cant.</string>
-    <string name="lblComida">Comida   $0</string>
-    <string name="lblPropina">Propina   $0</string>
-    <string name="lblTotal">Total   $0</string>
+    <string name="lblComida">Comida</string>
+    <string name="lblPropina">Propina</string>
+    <string name="lblTotal">Total</string>
+    <string name="valComida">$0</string>
+    <string name="valPropina">$0</string>
+    <string name="valTotal">$0</string>
 </resources>
