@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RestauranteKT</string>
+    <string name="app_name"></string>
     <string name="CazuelaTitle">Cazuela</string>
     <string name="PastelTitle">Pastel de choclo</string>
     <string name="PastePrice">$0</string>

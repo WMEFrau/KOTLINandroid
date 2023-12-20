@@ -8,6 +8,7 @@ import android.util.Log
 import android.widget.EditText
 import android.widget.Switch
 import android.widget.TextView
+import androidx.appcompat.widget.SwitchCompat
 import java.util.Objects
 import java.text.NumberFormat
 import java.util.*
@@ -93,7 +94,7 @@ class MainActivity : AppCompatActivity() {
         val valComida = findViewById<TextView>(R.id.valComida)
         val valPropina = findViewById<TextView>(R.id.valPropina)
         val valTotal = findViewById<TextView>(R.id.valTotal)
-        val switchPropina = findViewById<Switch>(R.id.switchPropina) as Switch
+        val switchPropina = findViewById<SwitchCompat>(R.id.switchPropina)
         val Pastelsubtotal = findViewById<TextView>(R.id.Pastelsubtotal)
         val cazuelaSubtotal = findViewById<TextView>(R.id.cazuelaSubtotal)
         /* val clases externas  */
